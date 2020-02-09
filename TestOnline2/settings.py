@@ -89,7 +89,7 @@ DATABASES = {
         'NAME': 'testonline',       # 数据库名，事先要创建之
         'USER': 'root',         # 数据库用户名
         'PASSWORD': '1',     # 密码
-        'HOST': 'localhost',    # 主机
+        'HOST': '192.168.0.114',    # 主机
         'PORT': '3306',         # 数据库使用的端口
     }
 }
